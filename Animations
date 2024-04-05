@@ -1,0 +1,9 @@
+Animation:
+
+To add animations to your visualization, you'll typically use the "Pages" shelf or the "Show Me" panel.
+
+If you're using the Pages shelf:
+Drag a dimension that represents a time-based or sequential variable (e.g., date, time, category) to the Pages shelf.
+Tableau will automatically generate a series of "pages" corresponding to the unique values of the selected dimension.
+Click on the "Play" button in the Pages shelf to preview the animation.
+Adjust the speed and other settings of the animation as needed.
